@@ -1,0 +1,17 @@
+{
+  "FakeCallJson":{
+    "AdsController": {
+      "NetworkAds": "Admob",
+      "AdmobBanner": "ca-app-pub-2649305541278957/7042859803",
+      "AdmobNative": "ca-app-pub-2649305541278957/7042859803",
+      "AdmobInterstitial": "ca-app-pub-2649305541278957/5921349822",
+      "AdmobReward": "ca-app-pub-2649305541278957/9724863466",
+      "AdmobAppOpen": "ca-app-pub-2649305541278957/9724863466"
+      },
+    "items":{
+      "title": "",
+      "image": "",
+      "link": ""
+    }
+  }
+}
