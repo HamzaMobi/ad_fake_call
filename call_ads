@@ -2,11 +2,11 @@
   "FakeCallJson":{
     "AdsController": {
       "NetworkAds": "Admob",
-      "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
-      "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-      "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-      "AdmobReward": "ca-app-pub-3940256099942544/5224354917",
-      "AdmobAppOpen": "ca-app-pub-3940256099942544/3419835294"
+      "AdmobBanner": "ca-app-pub-2649305541278957/8750005750",
+      "AdmobNative": "ca-app-pub-2649305541278957/6479065631",
+      "AdmobInterstitial": "ca-app-pub-2649305541278957/8511150843",
+      "AdmobAppOpen": "ca-app-pub-2649305541278957/2595660948",
+      "AdmobReward": ""
       },
     "items":{
       "title": "",
